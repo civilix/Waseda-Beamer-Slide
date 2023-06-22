@@ -20,4 +20,4 @@ Unlike other templates, you will no longer need to master MakeFile to write comp
 Those who use Mac OS, Linux, and other unix-like systems can now enjoy the same joy, since the make.sh file prepared for you is ready to go.
 
 ### License
-[the LPPL - 3.0 © civilix](https://github.com/civilix/Waseda-Beamer-Slide-Japanese/blob/master/LICENSE)
+[the LPPL - 1.3 © civilix](https://github.com/civilix/Waseda-Beamer-Slide-Japanese/blob/master/LICENSE)
