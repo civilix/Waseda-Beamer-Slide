@@ -2,7 +2,7 @@
 
 Hurry up STAR and FORK this Repo, which is a free Gospel of Waseda Univ. students, is the visual enjoyment and aesthetic impact for teachers. Using this template, you will easily enter the winner group of lives. And any report or defence will bow down on your crumpled jeans/garments from now on.
 
-[click here to preview]((https://github.com/civilix/Waseda-Beamer-Slide-Japanese/blob/master/slide.pdf))
+[click here to preview](https://github.com/civilix/Waseda-Beamer-Slide-Japanese/blob/master/slide.pdf)
 
 ### This template is suitable for:
 - Undergraduate, postgraduate and doctoral thesis/dissertation defense
